@@ -1,5 +1,3 @@
-![logo](https://i.imgur.com/dWfycU7.png)
-
 # Hypixel SkyBlock - HarpCliker
 A mod that helps you complete all levels on the harp, obtain a talisman, and receive other bonuses. When you open the harp, it activates automatically and completes the mini-game for you. It's just a script, it presses buttons for you, and you **CANNOT** get banned on Hypixel for that.
 
