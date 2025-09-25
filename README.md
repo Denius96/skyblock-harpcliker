@@ -4,7 +4,6 @@ A mod that helps you complete all levels on the harp, obtain a talisman, and rec
 The mod itself determines when a song is played and works completely independently.
 
 ![Preview](https://i.imgur.com/dZqfw3y.gif)
-![Success](https://i.imgur.com/swJwNIi.jpeg)
 
 # Download & Install
 The mod is written for Minecraft versions 1.21.5 - 1.21.8.
