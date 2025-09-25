@@ -8,6 +8,7 @@ The mod itself determines when a song is played and works completely independent
 # Download & Install
 The mod is written for Minecraft versions ```1.21.5 - 1.21.8```.
 To install, place it in the ```/mods``` folder with Fabric and Fabric API of the corresponding versions already installed.
+Download link: https://github.com/Denius96/skyblock-harpcliker/releases/tag/1.0.0
 
 # How to use
 The mod automatically identifies the song for you.
